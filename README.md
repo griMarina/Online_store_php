@@ -23,9 +23,9 @@ Admin panel: only admin has access to this page. Admin can see all orders and ed
 * Open http://localhost:8888
 
 ## Login details
-# Admin
+### Admin
 * Username: admin
 * Password: 123
-# User
+### User
 * Username: user
 * Password: 321
