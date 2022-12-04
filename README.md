@@ -1,5 +1,6 @@
-## General info
 This a simple MVC website is the final project of the course Basic PHP, GeekBrains University.
+
+## General info
 
 Gallery: user can view pictures and add his own. The app counts the number of views for each picture and ranks them by popularity.
 
