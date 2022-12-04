@@ -1,4 +1,4 @@
-This a simple MVC website is the final project of the course Basic PHP, GeekBrains University.
+This simple MVC website is the final project of the course Basic PHP, GeekBrains University.
 
 ## General info
 
@@ -20,7 +20,7 @@ Admin panel: only admin has access to this page. Admin can see all orders and ed
 
 ## Setup
 * Download and unzip Online_store_php 
-* Choose folder public as document root (to run the application I use MAMP).
+* Choose folder public as document root (to run the website I use MAMP).
 * Open http://localhost:8888
 
 ## Login details
